@@ -1,0 +1,36 @@
+.intro{
+    background-image: url("img/g1.jpeg");
+    background-attachment: fixed;
+    background-size: contain;
+    background-position: center;
+    min-height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+.about{
+    background-image: url("img/g3.jpeg");
+    background-attachment: fixed;
+    background-size: contain;
+    background-position: center;
+    min-height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+.hide{
+    background-image: linear-gradient(cyan, orange blue);
+    background-attachment: fixed;
+    background-size: contain;
+    background-position: center;
+    min-height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
